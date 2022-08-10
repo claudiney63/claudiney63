@@ -23,3 +23,5 @@
 </div>
 
 Apaixonado por tecnologia e busco atualmente experiencia na área em um primeiro emprego.
+
+![Snake animation](https://github.com/rafaballerini/claudiney63/blob/output/github-contribution-grid-snaken.svg)
