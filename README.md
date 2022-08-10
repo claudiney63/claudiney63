@@ -3,7 +3,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/claudiney.ryan/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiney-ryan-59744b198/)
 
-![Claudiney GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiney63&show_icons=true&theme=dracula)
+![Claudiney GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiney63&show_icons=true&theme=dracula) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso e ando aprendendo no meu dia 🚀
 
