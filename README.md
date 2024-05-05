@@ -24,4 +24,3 @@
 
 </div>
 
-Busco atualmente experiencia na área em um primeiro emprego.
