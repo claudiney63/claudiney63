@@ -6,6 +6,7 @@
 ![Claudiney GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiney63&show_icons=true&theme=dracula) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiney63&layout=compact&langs_count=16&theme=dracula)](https://github.com/claudiney63/github-readme-stats)
 
+
 ### Tecnologias que uso e ando aprendendo no meu dia 🚀
 
 <div>
